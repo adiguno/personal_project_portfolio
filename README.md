@@ -16,3 +16,5 @@ A website displaying personal projects (currently using Python 3, Django, )
 
 ## todo
  - [x] setup
+ - [ ] overall template
+    - display home/logo/button
