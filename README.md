@@ -15,4 +15,4 @@ A website displaying personal projects (currently using Python 3, Django, )
         - dark scheme
 
 ## todo
- - [ ] setup
+ - [x] setup
