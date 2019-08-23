@@ -18,3 +18,7 @@ A website displaying personal projects (currently using Python 3, Django, )
  - [x] setup
  - [ ] overall template
     - display home/logo/button
+
+## setup
+ - Python 3.6.0
+ - Django 2.2.1
