@@ -22,3 +22,4 @@ A website displaying personal projects (currently using Python 3, Django, )
 ## setup
  - Python 3.6.0
  - Django 2.2.1
+ - Django REST framework 3.10.2
